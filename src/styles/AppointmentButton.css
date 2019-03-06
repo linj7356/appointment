@@ -1,0 +1,23 @@
+.btn {
+    width: 700px;
+    background: white;
+    display: flex;
+    color: black;
+    margin-top: 10px;
+    left: 30%;
+    height: 50px;
+    border-color: black;
+    font-size: medium;
+}
+
+.appointed-btn {
+    width: 700px;
+    background: #FF9999;
+    display: flex;
+    color: black;
+    margin-top: 10px;
+    left: 30%;
+    height: 50px;
+    border-color: #FF9999;
+    font-size: medium;
+}
